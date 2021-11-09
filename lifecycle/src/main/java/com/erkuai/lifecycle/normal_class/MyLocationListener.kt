@@ -1,4 +1,4 @@
-package com.erkuai.lifecycle
+package com.erkuai.lifecycle.normal_class
 
 import android.app.Activity
 import android.util.Log
