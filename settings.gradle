@@ -10,3 +10,4 @@ rootProject.name = "JetpackDemo"
 include ':app'
 include ':lifecycle'
 include ':navigation'
+include ':navigationui'
