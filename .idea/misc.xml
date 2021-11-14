@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/AndroidProjects/JetpackDemo/app/src/main/res/layout/activity_main.xml" value="0.19022289766970618" />
         <entry key="..\:/AndroidProjects/JetpackDemo/lifecycle/src/main/res/layout/activity_main.xml" value="0.19022289766970618" />
+        <entry key="..\:/AndroidProjects/JetpackDemo/navigation/src/main/res/layout/activity_main.xml" value="0.19022289766970618" />
+        <entry key="..\:/AndroidProjects/JetpackDemo/navigation/src/main/res/layout/fragment_main.xml" value="0.19022289766970618" />
+        <entry key="..\:/AndroidProjects/JetpackDemo/navigation/src/main/res/layout/fragment_second.xml" value="0.19022289766970618" />
       </map>
     </option>
   </component>
